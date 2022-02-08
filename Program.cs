@@ -6,8 +6,8 @@ namespace humansAssignment
     {
         static void Main(string[] args)
         {
-            // Human.Human("Waseem");
-            Console.WriteLine("Hello World!");
+            Human human = new Human("waseem", 10, 8, 7, 100);
+            Console.WriteLine($"Name: {human.Name} -- Strength: {human.Strength} -- Intelligence: {human.Intelligence} -- Dexterity: {human.Dexterity} -- Health: {human.Health}");
         }
     }
 }

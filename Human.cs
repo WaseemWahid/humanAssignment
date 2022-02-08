@@ -1,7 +1,8 @@
 using System;
+using System.Collections.Generic;
 
-namespace humanAssignment
-{
+
+
     // Create a Human class with four public fields: Name (string) , Strength (int), Intelligence (int), Dexterity (int)
     class Human
     {
@@ -42,11 +43,10 @@ namespace humanAssignment
         // The damage done should be 5 * strength (5 points of damage to the attacked, for each 1 point of strength of the attacker). 
         // This method should return the remaining health of the target object.
         public int Attack(Human target)
-        {
+        {   
             int damage = Strength * 2;
             target.health -= damage;
             Console.WriteLine($"{Name} attacked {target.Name} for {damage} damage!");
             return target.health;
         }
     }
-}
