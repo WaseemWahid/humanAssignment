@@ -1,0 +1,13 @@
+C:\Users\Waseem's PC\Documents\c#\humanAssignment\obj\Debug\netcoreapp3.1\humanAssignment.csprojAssemblyReference.cache
+C:\Users\Waseem's PC\Documents\c#\humanAssignment\obj\Debug\netcoreapp3.1\humanAssignment.AssemblyInfoInputs.cache
+C:\Users\Waseem's PC\Documents\c#\humanAssignment\obj\Debug\netcoreapp3.1\humanAssignment.AssemblyInfo.cs
+C:\Users\Waseem's PC\Documents\c#\humanAssignment\obj\Debug\netcoreapp3.1\humanAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Waseem's PC\Documents\c#\humanAssignment\bin\Debug\netcoreapp3.1\humanAssignment.exe
+C:\Users\Waseem's PC\Documents\c#\humanAssignment\bin\Debug\netcoreapp3.1\humanAssignment.deps.json
+C:\Users\Waseem's PC\Documents\c#\humanAssignment\bin\Debug\netcoreapp3.1\humanAssignment.runtimeconfig.json
+C:\Users\Waseem's PC\Documents\c#\humanAssignment\bin\Debug\netcoreapp3.1\humanAssignment.runtimeconfig.dev.json
+C:\Users\Waseem's PC\Documents\c#\humanAssignment\bin\Debug\netcoreapp3.1\humanAssignment.dll
+C:\Users\Waseem's PC\Documents\c#\humanAssignment\bin\Debug\netcoreapp3.1\humanAssignment.pdb
+C:\Users\Waseem's PC\Documents\c#\humanAssignment\obj\Debug\netcoreapp3.1\humanAssignment.dll
+C:\Users\Waseem's PC\Documents\c#\humanAssignment\obj\Debug\netcoreapp3.1\humanAssignment.pdb
+C:\Users\Waseem's PC\Documents\c#\humanAssignment\obj\Debug\netcoreapp3.1\humanAssignment.genruntimeconfig.cache
